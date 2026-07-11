@@ -1,0 +1,10 @@
+export const BASE_URL = 'https://yhxt.swjtu.edu.cn/yethan';
+export const STUDY_ORIGIN = 'https://yhxt.swjtu.edu.cn';
+export const STUDY_REFERER = 'https://yhxt.swjtu.edu.cn/study/';
+export const DEFAULT_TERM_ID = '124';
+export const DEFAULT_RETRY_INTERVAL_MS = 800;
+export const DEFAULT_MAX_RETRIES = 60;
+export const DEFAULT_FREQUENCY_BACKOFF_MAX_MS = 30000;
+export const DEFAULT_GLOBAL_CONCURRENCY = 2;
+export const DEFAULT_TASK_JITTER_MS = 350;
+export const DEFAULT_MONITOR_INTERVAL_MS = 1000;
