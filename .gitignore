@@ -10,6 +10,9 @@ release/
 # Binary executables
 *.exe
 
+# Generated JS configs
+vite.config.js
+
 # Hermes agent project files
 .hermes/
 
